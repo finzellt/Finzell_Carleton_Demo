@@ -19,6 +19,6 @@ Students should be able to...
 ### Practice Learning Goals for Today's Assignment
 
 1. Debug code provided to you
-2. Work effectively with others to write and modify code.
-3. Writing pseudocode.
+2. Work effectively with others to use, modify, and create code.
+3. Write pseudocode to solve a problem using plain language.
 
