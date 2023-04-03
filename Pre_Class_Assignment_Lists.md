@@ -48,7 +48,7 @@ For most of our class it will be sufficient to just define and `append` elements
 
 ### Questions
 
-1. What's an example of a list from everyday life?
+1. Come up with an example of a list from everyday life. Something you might use to explain them to a ten-year old. Write a piece of pseudocode for how you would store and access elements in your example list.
 2. Run the following bit of code:
 ```
 my_list = [6,"pencil","t-shirt"]
