@@ -6,5 +6,5 @@ funds_t0 = 1500 #total funds at time 0
 funds = funds_t0 #set the current funds to funds at time 0
 
 for dt in range(t_total):
-    funds = funds_t0*(1.0+interest_rate)
+    funds = funds_t0*interest_rate
 print(funds)
